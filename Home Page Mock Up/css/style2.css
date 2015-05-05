@@ -1,0 +1,35 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 55px;
+	font-family: Century Gothic;
+	background: black;
+	color: white;
+
+}
+
+#slogan {
+	font-style: italic;
+	font-size: bold;
+	font-family: Century Gothic;
+	font-size: 45px;
+}
+
+#description{
+	background: black;
+	color: white;
+	font-family: Century Gothic;
+	font-size: 20px;
+	font-style: italic;
+}
+
+#list{
+	background: black;
+	color: white;
+	font-family: Century Gothic;
+	font-size: 20px;
+
+}
