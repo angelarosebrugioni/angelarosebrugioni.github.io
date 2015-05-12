@@ -3,12 +3,11 @@ body {
 }
 
 h1 {
-	font-weight: bold;
-	font-size: 55px;
+	font-size: 80px;
 	font-family: Century Gothic;
 	background: black;
 	color: white;
-
+	font-family: 'PT Sans Narrow', sans-serif;
 }
 
 #slogan {
@@ -24,6 +23,7 @@ h1 {
 	font-family: Century Gothic;
 	font-size: 20px;
 	font-style: italic;
+	padding: 15px;
 }
 
 #list{
@@ -32,4 +32,9 @@ h1 {
 	font-family: Century Gothic;
 	font-size: 20px;
 
+}
+ul {
+	display: inline-block;
+	text-align: left;
+	padding: 30px;
 }
